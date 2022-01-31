@@ -1,0 +1,16 @@
+C:\Users\jhona\source\repos\Weelo.Dto\bin\Debug\net5.0\Weelo.Dto.exe
+C:\Users\jhona\source\repos\Weelo.Dto\bin\Debug\net5.0\Weelo.Dto.deps.json
+C:\Users\jhona\source\repos\Weelo.Dto\bin\Debug\net5.0\Weelo.Dto.runtimeconfig.json
+C:\Users\jhona\source\repos\Weelo.Dto\bin\Debug\net5.0\Weelo.Dto.runtimeconfig.dev.json
+C:\Users\jhona\source\repos\Weelo.Dto\bin\Debug\net5.0\Weelo.Dto.dll
+C:\Users\jhona\source\repos\Weelo.Dto\bin\Debug\net5.0\ref\Weelo.Dto.dll
+C:\Users\jhona\source\repos\Weelo.Dto\bin\Debug\net5.0\Weelo.Dto.pdb
+C:\Users\jhona\source\repos\Weelo.Dto\obj\Debug\net5.0\Weelo.Dto.csprojAssemblyReference.cache
+C:\Users\jhona\source\repos\Weelo.Dto\obj\Debug\net5.0\Weelo.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\source\repos\Weelo.Dto\obj\Debug\net5.0\Weelo.Dto.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\Weelo.Dto\obj\Debug\net5.0\Weelo.Dto.AssemblyInfo.cs
+C:\Users\jhona\source\repos\Weelo.Dto\obj\Debug\net5.0\Weelo.Dto.csproj.CoreCompileInputs.cache
+C:\Users\jhona\source\repos\Weelo.Dto\obj\Debug\net5.0\Weelo.Dto.dll
+C:\Users\jhona\source\repos\Weelo.Dto\obj\Debug\net5.0\ref\Weelo.Dto.dll
+C:\Users\jhona\source\repos\Weelo.Dto\obj\Debug\net5.0\Weelo.Dto.pdb
+C:\Users\jhona\source\repos\Weelo.Dto\obj\Debug\net5.0\Weelo.Dto.genruntimeconfig.cache

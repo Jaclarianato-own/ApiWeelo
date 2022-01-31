@@ -1,0 +1,16 @@
+C:\Users\jhona\source\repos\Weelo.Domain\bin\Debug\net5.0\Weelo.Domain.exe
+C:\Users\jhona\source\repos\Weelo.Domain\bin\Debug\net5.0\Weelo.Domain.deps.json
+C:\Users\jhona\source\repos\Weelo.Domain\bin\Debug\net5.0\Weelo.Domain.runtimeconfig.json
+C:\Users\jhona\source\repos\Weelo.Domain\bin\Debug\net5.0\Weelo.Domain.runtimeconfig.dev.json
+C:\Users\jhona\source\repos\Weelo.Domain\bin\Debug\net5.0\Weelo.Domain.dll
+C:\Users\jhona\source\repos\Weelo.Domain\bin\Debug\net5.0\ref\Weelo.Domain.dll
+C:\Users\jhona\source\repos\Weelo.Domain\bin\Debug\net5.0\Weelo.Domain.pdb
+C:\Users\jhona\source\repos\Weelo.Domain\obj\Debug\net5.0\Weelo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\source\repos\Weelo.Domain\obj\Debug\net5.0\Weelo.Domain.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\Weelo.Domain\obj\Debug\net5.0\Weelo.Domain.AssemblyInfo.cs
+C:\Users\jhona\source\repos\Weelo.Domain\obj\Debug\net5.0\Weelo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jhona\source\repos\Weelo.Domain\obj\Debug\net5.0\Weelo.Domain.dll
+C:\Users\jhona\source\repos\Weelo.Domain\obj\Debug\net5.0\ref\Weelo.Domain.dll
+C:\Users\jhona\source\repos\Weelo.Domain\obj\Debug\net5.0\Weelo.Domain.pdb
+C:\Users\jhona\source\repos\Weelo.Domain\obj\Debug\net5.0\Weelo.Domain.genruntimeconfig.cache
+C:\Users\jhona\source\repos\Weelo.Domain\obj\Debug\net5.0\Weelo.Domain.csprojAssemblyReference.cache
